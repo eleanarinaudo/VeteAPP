@@ -7,5 +7,11 @@
 }
 
 h1{
+    margin: 20px;
+    text-align: center;
+}
+
+.btn-new{
     margin-bottom: 20px;
+    margin-left: 20px;
 }
